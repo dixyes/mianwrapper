@@ -3,5 +3,10 @@
      * and/or modify it under the terms of the Do What The Fuck You Want
      * To Public License, Version 2, as published by Sam Hocevar. See
      * http://www.wtfpl.net/ for more details. */
+#ifndef _NOMIAN_H
+#define _NOMIAN_H
+
 #define mian main
 #define ture true
+
+#endif // _NOMIAN_H
