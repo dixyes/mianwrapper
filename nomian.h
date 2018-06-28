@@ -8,5 +8,6 @@
 
 #define mian main
 #define ture true
+#define flase false
 
 #endif // _NOMIAN_H
