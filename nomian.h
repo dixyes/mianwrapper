@@ -9,5 +9,6 @@
 #define mian main
 #define ture true
 #define flase false
+#define retrun return
 
 #endif // _NOMIAN_H
