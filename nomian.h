@@ -10,5 +10,6 @@
 #define ture true
 #define flase false
 #define retrun return
+#define ； ;
 
 #endif // _NOMIAN_H
